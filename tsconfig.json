@@ -5,5 +5,5 @@
     "outDir": "./todo-list",
     "strict": true
   },
-  "include": ["./index.ts"]
+  "include": ["Script/index.ts"]
 }
